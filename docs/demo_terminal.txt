@@ -1,0 +1,11 @@
+ДЕМО-СНИМОК ТЕРМИНАЛА
+Сгенерирован скриптом docs/make_demo.py 2026-09-14 17:27. Это реальный вывод программы, не рисованный.
+Воспроизведение: python run.py --source demo --out docs/demo_result.xlsx --limit 8 --json docs/demo_result.json   (из корня проекта)
+Код возврата: 0
+
+> python run.py --source demo --out docs/demo_result.xlsx --limit 8 --json docs/demo_result.json
+Источник: Демо-каталог книг (локальный офлайн-источник, data/demo_catalog.html)
+Записей получено: 12, взято первых 8 (--limit 8)
+Excel: docs\demo_result.xlsx (листы «Данные» и «Сводка»)
+JSON:  docs\demo_result.json
+Готово.

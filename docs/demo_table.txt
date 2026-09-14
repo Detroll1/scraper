@@ -1,0 +1,26 @@
+СОДЕРЖИМОЕ ДЕМО-ФАЙЛА docs/demo_result.xlsx
+Выгружено скриптом docs/make_demo.py 2026-09-14 17:27 из реально сгенерированного файла (openpyxl).
+
+Лист «Данные»:
+№ | Наименование             | Ссылка                                                                                                                        | Цена  | Мета
+--+--------------------------+-------------------------------------------------------------------------------------------------------------------------------+-------+---------------------
+1 | Мастер и Маргарита       | file:///C:/Users/detro/OneDrive/Documents/%D0%BC%D0%B0%D1%83%D1%81%D1%8B/Projects/scraper/data/#book-master-i-margarita       | 599   | В наличии (12)
+2 | Преступление и наказание | file:///C:/Users/detro/OneDrive/Documents/%D0%BC%D0%B0%D1%83%D1%81%D1%8B/Projects/scraper/data/#book-prestuplenie-i-nakazanie | 449.5 | В наличии (7)
+3 | Евгений Онегин           | file:///C:/Users/detro/OneDrive/Documents/%D0%BC%D0%B0%D1%83%D1%81%D1%8B/Projects/scraper/data/#book-evgenij-onegin           | 329   | В наличии (3)
+4 | Война и мир              | file:///C:/Users/detro/OneDrive/Documents/%D0%BC%D0%B0%D1%83%D1%81%D1%8B/Projects/scraper/data/#book-vojna-i-mir              | 1249  | Под заказ (2 недели)
+5 | Золотой телёнок          | file:///C:/Users/detro/OneDrive/Documents/%D0%BC%D0%B0%D1%83%D1%81%D1%8B/Projects/scraper/data/#book-zolotoj-telenok          | 389   | В наличии (21)
+6 | Двенадцать стульев       | file:///C:/Users/detro/OneDrive/Documents/%D0%BC%D0%B0%D1%83%D1%81%D1%8B/Projects/scraper/data/#book-dvenadcat-stulev         | 359   | В наличии (9)
+7 | Анна Каренина            | file:///C:/Users/detro/OneDrive/Documents/%D0%BC%D0%B0%D1%83%D1%81%D1%8B/Projects/scraper/data/#book-anna-karenina            | 679   | В наличии (5)
+8 | Капитанская дочка        | file:///C:/Users/detro/OneDrive/Documents/%D0%BC%D0%B0%D1%83%D1%81%D1%8B/Projects/scraper/data/#book-kapitanskaya-dochka      | 259   | Нет в наличии
+
+Лист «Сводка»:
+Источник                | Демо-каталог книг (локальный офлайн-источник, data/demo_catalog.html)
+------------------------+----------------------------------------------------------------------
+Дата генерации          | 2026-09-14 17:27
+Всего записей           | 8
+Уникальных наименований | 8
+Записей с ценой         | 8
+Минимальная цена        | 259
+Максимальная цена       | 1249
+Средняя цена            | 539.06
+
